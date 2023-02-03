@@ -8,6 +8,5 @@
 - linkedin:  www.linkedin.com/in/karina-paez-astudillo
 - email: karinapaezastudillo@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPaezAstudillo)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github-readme-streak-stats.herokuapp.com/?user=KPaezAstudillo
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KPaezAstudillo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPaezAstudillo)](https://github.com/anuraghazra/github-readme-stats)
