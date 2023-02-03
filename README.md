@@ -8,5 +8,5 @@
 - linkedin:  www.linkedin.com/in/karina-paez-astudillo
 - email: karinapaezastudillo@gmail.com
 
-![](https://raw.githubusercontent.com/KPaezAstudillo/stats-template/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/KPaezAstudillo/stats-template/tree/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
 
