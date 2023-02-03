@@ -8,5 +8,4 @@
 - linkedin:  www.linkedin.com/in/karina-paez-astudillo
 - email: karinapaezastudillo@gmail.com
 
-![](https://raw.githubusercontent.com/KPaezAstudillo/stats-template/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPaezAstudillo)](https://github.com/anuraghazra/github-readme-stats)
