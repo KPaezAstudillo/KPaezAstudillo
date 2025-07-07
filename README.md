@@ -1,4 +1,4 @@
-- 👋 Welcome! I’m @KPaezAstudillo: a computer science engineer working as a full-stack developer in Usercode.
+- 👋 Welcome! I’m @KPaezAstudillo: a computer science engineer working as a full-stack developer.
 
 - I am a Spanish native speaker with an advanced level of English proficiency.
 
